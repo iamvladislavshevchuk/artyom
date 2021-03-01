@@ -60,7 +60,7 @@ export default (() => {
 					text-align="center"
 					font="--headline1"
 					lg-font="200 42px/1.2 --fontFamily-sans"
-					lg-letter-spacing="20px"
+					sm-font="--headline1"
 				>
 					Ти робиш кльові речі.{" "}
 					<br />
@@ -106,17 +106,8 @@ export default (() => {
 			display="flex"
 			flex-direction="column"
 			height="100vh"
+			sm-background="url(https://uploads.quarkly.io/603cb0ce8db767001e87b28b/images/Astronaut%203_4%202.jpg?v=2021-03-01T09:41:51.905Z) 0% 0%/cover"
 		>
-			<Text
-				font="--base"
-				text-transform="uppercase"
-				letter-spacing="1px"
-				max-width="850px"
-				color="--light"
-				margin="0px 0px 8px 0px"
-			>
-				Eyebrow
-			</Text>
 			<Stack color="--grey" font="--base">
 				<StackItem width="50%" md-width="100%">
 					<Text
