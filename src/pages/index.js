@@ -21,6 +21,9 @@ export default (() => {
 			sm-padding="40px 0"
 			color="--light"
 			font="--base"
+			height="100vh"
+			flex-direction="column"
+			justify-content="center"
 		>
 			<Stack>
 				<StackItem width="75%" lg-width="100%">
@@ -46,6 +49,9 @@ export default (() => {
 			background="linear-gradient(0deg,rgba(0,0,0,.2) 0%,rgba(0,0,0,.2) 100%),--color-dark url(https://uploads.quarkly.io/603cb0ce8db767001e87b28b/images/SleepyCat%2059.jpg?v=2021-03-01T09:23:45.381Z) 50% 15%/cover"
 			color="--light"
 			font="--base"
+			height="100vh"
+			flex-direction="column"
+			justify-content="center"
 		>
 			<Box>
 				<Text
@@ -96,9 +102,10 @@ export default (() => {
 			sm-padding="40px 0"
 			min-height="600px"
 			sm-min-height="auto"
-			background="linear-gradient(0deg,rgba(0,0,0,.2) 0%,rgba(0,0,0,.2) 100%),url(https://uploads.quarkly.io/603cb0ce8db767001e87b28b/images/0006.jpg?v=2021-03-01T09:31:44.308Z) 0% 0%/cover"
+			background="linear-gradient(0deg,rgba(0,0,0,.2) 0%,rgba(0,0,0,.2) 100%),url(https://uploads.quarkly.io/603cb0ce8db767001e87b28b/images/Astronaut%203_4%202.jpg?v=2021-03-01T09:41:51.905Z) 0% 0%/cover"
 			display="flex"
 			flex-direction="column"
+			height="100vh"
 		>
 			<Text
 				font="--base"
