@@ -60,7 +60,7 @@ export default (() => {
 					text-align="center"
 					font="--headline1"
 					lg-font="200 42px/1.2 --fontFamily-sans"
-					sm-font="--headline1"
+					sm-font="--headline2"
 				>
 					Ти робиш кльові речі.{" "}
 					<br />
